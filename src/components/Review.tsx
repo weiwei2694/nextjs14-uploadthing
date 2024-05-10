@@ -60,6 +60,7 @@ const Review = ({
 						<Button
 							disabled={isPending}
 							variant='outline'
+							onClick={onOpenChange}
 						>
 							Cancel
 						</Button>

@@ -13,10 +13,12 @@ cd nextjs14-uploadthing
 ```
 
 ## Install packages
+```
 npm install
 yarn install
 pnpm install
 bun install
+```
 
 ## Setup .env file
 ```
